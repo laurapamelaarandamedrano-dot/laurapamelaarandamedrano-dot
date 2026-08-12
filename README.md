@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! 👋
+# ¡Hello, World! 
 
 <img src="assets/perrito-pixel.svg" alt="Perrito hecho de píxeles" width="500" />
 

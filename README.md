@@ -179,6 +179,14 @@ $ git log --oneline --research
 
 <div align="center">
 
+<img src="assets/perrito-pastel.svg" width="320" alt="Pastel pixel dog wagging its tail and blinking — observatory companion">
+
+</div>
+
+<br>
+
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
